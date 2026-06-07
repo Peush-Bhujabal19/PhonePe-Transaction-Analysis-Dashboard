@@ -13,7 +13,7 @@ helping stakeholders monitor transaction trends, payment success rates, failure 
 
 
 ##Links 
-PowerBi Dashboard Overview LInk:https://surl.lu/mycfsc
+PowerBi Dashboard Overview LInk: https://app.powerbi.com/view?r=eyJrIjoiMjU0MmQ3MDgtYjZlNC00YjhhLTkyZTgtZDE5ZmU5YWI4ZWVlIiwidCI6IjE4MGU0OTAxLWVkZjktNDdhMC05NzU2LTA1OWJlMmZiMWNjMSJ9
 
 Dataset LInk :https://docs.google.com/spreadsheets/d/1_fE2GdijUkXPSw4fHHkzuNHGeYxIOoSV/edit?usp=drive_link&ouid=113874699791573692874&rtpof=true&sd=true
 
